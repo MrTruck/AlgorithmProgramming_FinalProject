@@ -1,6 +1,7 @@
 # AlgorithmProgramming_FinalProject
 ### Description of game:<br>
 This game is not my idea it was inspired by many flash games with the same concept except most of them have the words moving from top to bottom where mine moves from right to left<br>
+But there are many that makes it exactly like mine it dates back to as early as 2001 https://bisqwit.iki.fi/wspeed/
 
 ### Before running the game make sure the following is installed:<br>
   -pygame ( pip install pygame ) <br>
