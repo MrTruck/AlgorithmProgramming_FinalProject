@@ -5,7 +5,7 @@ This game is not my idea it was inspired by many flash games with the same conce
 Before running the game make sure the following is installed:<br>
 -pygame ( pip install pygame ) <br>
 -nltk ( pip install nltk ) https://www.nltk.org/install.html<br>
--install all the fonts provided in assets folder<br>
+-install all the fonts provided in assets folder (NOT REQUIRED, but incase anything happens)<br>
 
 How to play:<br>
 -choose the length of letter that will be generated from the options (can be multiple choices simultaiously) from 2 to 8 <br>
