@@ -7,7 +7,11 @@ But there are many that makes it exactly like mine it dates back to as early as 
   -pygame ( pip install pygame ) <br>
   -nltk ( pip install nltk ) https://www.nltk.org/install.html<br>
   -install all the fonts provided in assets folder (NOT REQUIRED, but incase anything happens)<br>
-
+  
+### Running the game:<br>
+  -On your IDE (Visual Studio Code is recommended), make sure to open folder 'Algorithm and programing final'<br>
+  -Click Run and Start Debugging (Shortcut : F5)<br>
+  
 ### How to play:<br>
   -choose the length of letter that will be generated from the options (can be multiple choices simultaiously) from 2 to 8 <br>
   -press play<br>
