@@ -13,9 +13,22 @@ But there are many that makes it exactly like mine it dates back to as early as 
   -Click Run and Start Debugging (Shortcut : F5)<br>
   
 ### How to play:<br>
+####Arcade Mode (NLTK):<br>
   -choose the length of letter that will be generated from the options (can be multiple choices simultaiously) from 2 to 8 <br>
   -press play<br>
   -when words start to appear type in your words<br>
   -if your typed word matches the generated word, it will be highlighted green, press enter to make the word disappear <br>
   -If you fail to make a word disappear before it goes outside the screen, you will lose a life <br>
-  -as the level increases te number of words will be added (level 2 = 2 words, level 3 = 3 words, etc.) and words will move faster<br>
+  -as the level increases the number of words will be added (level 2 = 2 words, level 3 = 3 words, etc.) and words will move faster<br>
+
+####Arcade Mode (Multi Language):<br>
+  -the same as Arcade Mode (NLTK) except there's an option to choose the language of your preference<br>
+
+####Classic Mode:<br>
+  -choose your language<br>
+  -press play<br>
+  -words are generated perpetually<br>
+  -when words start to appear type in your words<br>
+  -if your typed word matches the generated word, it will be highlighted green, press enter to make the word disappear <br>
+  -If you fail to make a word disappear before it goes outside the screen, your mistakes will increase <br>
+  -if your mistakes reaches 10, you lose and the game resets<br>
